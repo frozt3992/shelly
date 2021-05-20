@@ -1,3 +1,1 @@
-# shelly
-#Not sure if I am using this correctly
-#
+#This is a repo containing my powershell scripts for various tasks. 
